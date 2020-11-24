@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/immortalinfidel/ppo-rs.svg?branch=master)](https://travis-ci.com/immortalinfidel/ppo-rs)
 # Percentage Price Oscillator (PPO)
 ```
 use ppo_rs::PPO;
